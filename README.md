@@ -1,8 +1,8 @@
-**Emergency Room Visit Report**
+***Emergency Room Visit Report***
 
 This Power BI dashboard provides insights into patient emergency room (ER) visit data, potentially from a hospital or clinic information system. It offers a quick view of patient demographics, wait times, and satisfaction scores.
 
-**Insights**
+***Insights***
 
 1. **Overall Patient Flow**
 
@@ -32,7 +32,7 @@ This Power BI dashboard provides insights into patient emergency room (ER) visit
 
 * **Administrative Appointments:** These appointments, likely involving more paperwork or insurance processing, make up a significant portion (50.04%) of ER visits. Investigating their impact on wait times and satisfaction could be beneficial. 
 
-**Process Implementation**
+***Process Implementation***
 
 1. **Data Acquisition**: Collected patient ER visit data from a hospital information system, including demographics, visit details, wait times, and satisfaction scores.
 
@@ -44,9 +44,9 @@ This Power BI dashboard provides insights into patient emergency room (ER) visit
 
 5. **Visualization and Dashboard Design**: Created charts and graphs to communicate insights, including bar charts for patient distribution, line charts for trends, and slicers for data filtering by specific criteria.
 
-**Key Features**
+***Key Features***
 
-* **Slicers:** The dashboard allows users to filter the data by time of day (AM/PM visits) to gain a more granular view of patient visits.
-* **Bar Charts:** Bar charts effectively illustrate the distribution of patient visits by age group and gender.
-* **Time Slicing:** The dashboard potentially allows for filtering data by other time periods (weeks, months, quarters, years) to explore trends over time.
+1. **Slicers:** The dashboard allows users to filter the data by time of day (AM/PM visits) to gain a more granular view of patient visits.
+2. **Bar Charts:** Bar charts effectively illustrate the distribution of patient visits by age group and gender.
+3. **Time Slicing:** The dashboard potentially allows for filtering data by other time periods (weeks, months, quarters, years) to explore trends over time.
 
