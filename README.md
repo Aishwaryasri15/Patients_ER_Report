@@ -4,31 +4,31 @@ This Power BI dashboard provides insights into patient emergency room (ER) visit
 
 **Insights**
 
-**Overall Patient Flow**
+1. **Overall Patient Flow**
 
 * **High Volume:** There were a significant number of patient visits (9,216) during the analyzed timeframe. 
 * **Weekday vs. Weekend:** Weekdays see a higher patient influx compared to weekends. This suggests potential staffing adjustments based on anticipated demand.
 
-**Wait Times and Satisfaction**
+2. **Wait Times and Satisfaction**
 
 * **Wait Time Concerns:** The average wait time of 35.36 minutes might be an area for improvement, especially considering a large portion (75.1%) of patients didn't rate the service. 
 * **Low Satisfaction Score:** The average satisfaction score of 5.47 suggests there's room to enhance the patient experience in the ER. The high percentage of non-rated responses might also indicate a need for better feedback mechanisms.
 
-**Patient Demographics**
+3. **Patient Demographics**
 
 * **Age Distribution:** Adults make up the largest group of ER visitors, followed by potentially younger and older age groups (details depend on your bar chart). 
 * **Gender Distribution:** Females have a slightly higher percentage of ER visits compared to males.
 
-**Temporal Trends**
+4. **Temporal Trends**
 
 * **Seasonal Variations:** August 2020 had the most patient visits, while February 2020 had the least. Analyzing trends over a longer period can reveal seasonal patterns or long-term changes.
 * **Yearly Increase:** There was an increase in total patient visits from 2019 (4,338) to 2020 (4,878).
 
-**Referral vs. Walk-In Rates**
+5. **Referral vs. Walk-In Rates**
 
 * **Walk-In Dominance:** Walk-in patients make up a larger portion (58.59%) compared to those referred by other healthcare providers (44.41%). Analyzing how this split impacts wait times and satisfaction can help optimize ER resource allocation.
 
-**Administrative vs. Non-Administrative Appointments**
+6. **Administrative vs. Non-Administrative Appointments**
 
 * **Administrative Appointments:** These appointments, likely involving more paperwork or insurance processing, make up a significant portion (50.04%) of ER visits. Investigating their impact on wait times and satisfaction could be beneficial. 
 
