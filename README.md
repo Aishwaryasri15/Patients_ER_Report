@@ -50,3 +50,5 @@ This Power BI dashboard provides insights into patient emergency room (ER) visit
 2. **Bar Charts:** Bar charts effectively illustrate the distribution of patient visits by age group and gender.
 3. **Time Slicing:** The dashboard potentially allows for filtering data by other time periods (weeks, months, quarters, years) to explore trends over time.
 
+***Snapshot of Dashboard***
+![Screenshot 2024-05-19 at 4 34 19 PM](https://github.com/Aishwaryasri15/Patients_ER_Report/assets/53164418/68cd072a-e5eb-4ec1-9fc7-328121cabb3e)
