@@ -1,5 +1,4 @@
-***Emergency Room Visit Analysis Dashboard
-***
+***Emergency Room Visit Analysis Dashboard***
 
 This Power BI dashboard provides insights into patient emergency room (ER) visit data, potentially from a hospital or clinic information system. It offers a quick view of patient demographics, wait times, and satisfaction scores.
 
